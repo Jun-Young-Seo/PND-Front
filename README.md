@@ -1,75 +1,48 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### test
-![a](https://github.com/user-attachments/assets/fda6cd47-a828-4190-8e00-7a02a92fd7fb)
+# P-ND : AI 및 대시보드 기반 문서작업 간편화 솔루션
+###  제 20회 한성공학경진대회 🥈은상🥈 수상작
 
 
+## 🔔 프로젝트 소개
+많은 개발자들, 특히 학생들은 프로그래밍에만 집중하고 문서화에는 어려움을 겪는 경우가 많다.
+
+문서화 작업은 소프트웨어 생명 주기에 있어 아주 중요하지만 그 중요성을 간과하기도 하고, 어렵고 번거롭기도 하다.
+
+P-ND를 통해 **자동화된 문서화 솔루션**을 경험할 수 있다!
+
+AI가 자동으로 내 Github 레포지토리를 바탕으로 
+
+프로젝트의 **README, E-RD, Class Diagram, Sequence Diagram, Report**를 생성해준다.
+
+AI가 생성해준 내용은 웹페이지 대시보드를 통해 편하고 직관적으로 수정할 수 있다.
+
+또, Github Report에선 프로젝트 마무리 후 간단한 회고 가이드도 제공한다.
+
+각 내용들을 서비스 내에서 편하게 관리할 수 있다.
+
+**Github 소셜 로그인**을 통해 더욱 편리하게 사용할 수 있도록 제작되었다.
+
+
+## 👀 작동화면 보기
+Youtube : https://youtu.be/xqzVTz0mM-Q
+
+
+![메인페이지](https://github.com/user-attachments/assets/d923cd4b-ba66-4f35-bf51-a7d5ca294951)
+<img width="1322" alt="리드미예시1" src="https://github.com/user-attachments/assets/4ca98fa9-9ce7-4623-854b-e55b82ff970f">
+<img width="1328" alt="레포트예시1" src="https://github.com/user-attachments/assets/844bcad7-f0d8-451e-a6be-14c105597367">
+<img width="1338" alt="ERD예시" src="https://github.com/user-attachments/assets/6db72a9a-5b5d-4e7a-9f12-32632e9eb654">
+<img width="1328" alt="MyProject예시" src="https://github.com/user-attachments/assets/f8bcc180-f943-4b08-84ea-e5a2701f1100">
+
+
+
+ ## ⚙️ 개발 환경
+- **IDE** : VS CODE
+- **Programming Language**: JavaScript
+- **Using Library** : React.js + mermaid.js
+<br>
+
+
+## 👩🏿‍🤝‍👩🏿 Contributors
+ - [한지운](https://github.com/Hjwoon) : 팀장, BE
+ - [김혜진](https://github.com/khyaejin) : BE
+ - [서준영](https://github.com/Jun-Young-Seo) : FE
+ - [정예빈](https://github.com/benniejung) : FE
