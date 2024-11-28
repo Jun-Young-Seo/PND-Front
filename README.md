@@ -23,15 +23,23 @@ AI가 생성해준 내용은 웹페이지 대시보드를 통해 편하고 직�
 
 
 ## 👀 작동화면 보기
-Youtube : https://youtu.be/xqzVTz0mM-Q
+시현 영상 Youtube : https://youtu.be/xqzVTz0mM-Q
 
-
+- 시작 페이지
 ![메인페이지](https://github.com/user-attachments/assets/d923cd4b-ba66-4f35-bf51-a7d5ca294951)
+<hr/>
+- 자동으로 작성 된 리드미
 <img width="1322" alt="리드미예시1" src="https://github.com/user-attachments/assets/4ca98fa9-9ce7-4623-854b-e55b82ff970f">
-<img width="1328" alt="레포트예시1" src="https://github.com/user-attachments/assets/844bcad7-f0d8-451e-a6be-14c105597367">
+<hr/>
+- 자동 작성 된 Diagram 
 <img width="1338" alt="ERD예시" src="https://github.com/user-attachments/assets/6db72a9a-5b5d-4e7a-9f12-32632e9eb654">
+<hr/>
+- 자동으로 작성 된 레포트
+<img width="1328" alt="레포트예시1" src="https://github.com/user-attachments/assets/844bcad7-f0d8-451e-a6be-14c105597367">
+<hr/>
+- 마이 페이지
 <img width="1328" alt="MyProject예시" src="https://github.com/user-attachments/assets/f8bcc180-f943-4b08-84ea-e5a2701f1100">
-
+<hr/>
 
 
  ## ⚙️ 개발 환경
